@@ -3,7 +3,7 @@
 ## Screenshots
 
 Login
-![Login](https://user-images.githubusercontent.com/92575268/193462473-7225696d-4753-4fb4-97d7-32f9c33ed2b1.jpg)
+![](https://user-images.githubusercontent.com/92575268/193462473-7225696d-4753-4fb4-97d7-32f9c33ed2b1.jpg | width=100)
 
 Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/92575268/193462546-0fa9acd8-4a26-4fcf-9484-647993e122a1.jpg)
